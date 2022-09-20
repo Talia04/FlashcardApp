@@ -9,7 +9,7 @@ App to display questions and answers
 
 ### App Walk-though
 
-(![Flashcard App](https://user-images.githubusercontent.com/88345566/191149078-bf6c03b8-fe76-4c0c-9614-e1d3a0ae47a5.gif)
+![Flashcard App](https://user-images.githubusercontent.com/88345566/191149078-bf6c03b8-fe76-4c0c-9614-e1d3a0ae47a5.gif)
 
 
 
