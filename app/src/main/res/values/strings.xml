@@ -2,4 +2,7 @@
     <string name="app_name">Flashcard App</string>
     <string name="Question_1">What is the greatest pizza topping of all time?</string>
     <string name="Answer_1">Pineapple</string>
+    <string name="option2text">Pineapple</string>
+    <string name="option3text">Mushroom</string>
+    <string name="option1text">Pepperoni</string>
 </resources>
