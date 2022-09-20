@@ -10,7 +10,8 @@ App to display questions and answers
 ### App Walk-though
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+
+<img src="![Flashcard App](https://user-images.githubusercontent.com/88345566/191148234-2e7d46b4-6a1c-478f-86fe-7d84592f6324.gif)" width=200><br>
 
 `TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
