@@ -10,6 +10,7 @@ App to display questions and answers
 ### App Walk-though
 
 ![Flashcard App](https://user-images.githubusercontent.com/88345566/191149078-bf6c03b8-fe76-4c0c-9614-e1d3a0ae47a5.gif)
+![Flashcard App 2 0](https://user-images.githubusercontent.com/88345566/191163158-de3d5b85-b3e4-435a-8a78-4ef556139375.gif)
 
 
 
@@ -21,7 +22,8 @@ App to display questions and answers
 - [x] Push code to GitHu
 ## Optional
 - [x] toggle the flashcard between the question side and the answer side
-- [ ] Style the question and answer side of the card to better distinguish between the two sides
-- [ ] Add selectable multiple choice answers beneath the card
-   - [ ] Change the background color of the multiple choice answers when clicked to indicate whether the question waanswered correctly
-- [ ] Further customize and style the card
+- [x] Style the question and answer side of the card to better distinguish between the two sides
+- [x] Add selectable multiple choice answers beneath the card
+   - [x] Change the background color of the multiple choice answers when clicked to indicate whether the question waanswered correctly
+- [x] Further customize and style the card
+
