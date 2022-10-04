@@ -3,8 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable-anydpi/see_answers.xml" value="0.1205" />
+        <entry key="app/src/main/res/drawable/cancel_btn.xml" value="0.1865" />
         <entry key="app/src/main/res/drawable/card_background.xml" value="0.114" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1111111111111111" />
+        <entry key="app/src/main/res/drawable/ic_baseline_save_24.xml" value="0.2135" />
+        <entry key="app/src/main/res/drawable/icon_add.xml" value="0.1225" />
+        <entry key="app/src/main/res/drawable/plus_icon.xml" value="0.1225" />
+        <entry key="app/src/main/res/layout/activity_add_question.xml" value="0.2030410766601562" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.22837370242214533" />
       </map>
     </option>
   </component>

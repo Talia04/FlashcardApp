@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AddQuestionActivity">
+
+
+    <EditText
+        android:id="@+id/add_question_input_text"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="70dp"
+        android:backgroundTint="#FF9800"
+        android:breakStrategy="simple"
+        android:hint="@string/add_question_hint_text"
+        android:minHeight="48dp" />
+
+    <EditText
+        android:id="@+id/add_answer_input_text"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/add_question_input_text"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="80dp"
+        android:backgroundTint="#FF9800"
+        android:hint="@string/enter_answer_here"
+        android:minHeight="48dp" />
+
+    <ImageView
+        android:id="@+id/cancel_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="32dp"
+        android:layout_marginBottom="31dp"
+        app:srcCompat="@drawable/cancel_btn" />
+
+    <ImageView
+        android:id="@+id/save_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="31dp"
+        android:layout_marginBottom="31dp"
+        app:srcCompat="@drawable/ic_baseline_save_24" />
+</RelativeLayout>

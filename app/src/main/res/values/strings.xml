@@ -5,4 +5,6 @@
     <string name="option2text">Pineapple</string>
     <string name="option3text">Mushroom</string>
     <string name="option1text">Pepperoni</string>
+    <string name="add_question_hint_text">Enter Question Here</string>
+    <string name="enter_answer_here">Enter Answer Here</string>
 </resources>

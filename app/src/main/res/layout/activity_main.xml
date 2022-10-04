@@ -18,7 +18,9 @@
     <TextView
         android:id="@+id/flashcard_answer"
         android:layout_width="match_parent"
-        android:layout_height="200dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/flashcard_question"
+        android:layout_marginTop="114dp"
         android:background="@color/teal_700"
         android:text="@string/Answer_1"
         android:textAlignment="center"
@@ -67,18 +69,36 @@
         android:textSize="34sp"
         android:visibility="invisible" />
 
-    <ImageView
-        android:id="@+id/answers_visible_toggle"
-        android:layout_width="75dp"
-        android:layout_height="77dp"
-        android:layout_below="@id/option3"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentEnd="true"
-        android:layout_marginStart="168dp"
-        android:layout_marginTop="45dp"
-        android:layout_marginEnd="168dp"
-        app:srcCompat="@drawable/see_answers"
-        tools:ignore="ImageContrastCheck" />
 
+    <ImageView
+        android:id="@+id/show_answer_toggle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="28dp"
+        android:layout_marginBottom="2dp"
+        android:src="@drawable/see_answers" />
+
+    <ImageView
+        android:id="@+id/hide_answer_toggle"
+        android:layout_width="100dp"
+        android:layout_height="98dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="28dp"
+        android:layout_marginBottom="2dp"
+        android:src="@drawable/hide_answers"
+        android:visibility="invisible" />
+
+    <ImageView
+        android:id="@+id/add_question_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="28dp"
+        android:layout_marginBottom="2dp"
+        android:src="@drawable/icon_add" />
 
 </RelativeLayout>
