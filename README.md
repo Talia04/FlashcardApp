@@ -2,15 +2,14 @@
 
 📝 `NOTE:` Paste the README templates for each subsequent lab here at the top, (i.e. lab 2, 3, 4). This will show a history of your development process including which users tories you completed and how your app looked and functioned at each step.
 
-
+## Lab 1
 
 ### App Walk-though
-Lab 1
 ![Flashcard App](https://user-images.githubusercontent.com/88345566/191149078-bf6c03b8-fe76-4c0c-9614-e1d3a0ae47a5.gif)
 
-Lab 2
 
-## Lab 2
+
+## Lab 3
 
 ### App Description
 App to display questions and answers
