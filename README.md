@@ -2,14 +2,20 @@
 
 📝 `NOTE:` Paste the README templates for each subsequent lab here at the top, (i.e. lab 2, 3, 4). This will show a history of your development process including which users tories you completed and how your app looked and functioned at each step.
 
+
+
+### App Walk-though
+Lab 1
+![Flashcard App](https://user-images.githubusercontent.com/88345566/191149078-bf6c03b8-fe76-4c0c-9614-e1d3a0ae47a5.gif)
+
+Lab 2
+
 ## Lab 2
 
 ### App Description
 App to display questions and answers
 
-### App Walk-though
-
-![Flashcard App](https://user-images.githubusercontent.com/88345566/191149078-bf6c03b8-fe76-4c0c-9614-e1d3a0ae47a5.gif)
+### App Walk-through
 ![Flashcard App 2 0](https://user-images.githubusercontent.com/88345566/191163158-de3d5b85-b3e4-435a-8a78-4ef556139375.gif)
 
 
@@ -27,7 +33,7 @@ App to display questions and answers
    - [x] Change the background color of the multiple choice answers when clicked to indicate whether the question waanswered correctly
 - [x] Further customize and style the card
 
-# Lab 2 : Flashcard App (Unobliviate)
+# Lab 2 : Flashcard App 2.1
 
 ## Required
 - [x] User can click on a ‘+’ button that takes the user to new ‘Add Card Screen’
